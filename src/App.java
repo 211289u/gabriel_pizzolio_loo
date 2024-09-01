@@ -8,5 +8,6 @@ public class App {
         turmaLoo.adicionarAluno(new Aluno("Testemilson"));
 
         turmaLoo.listarAlunos();
+        
     }
 }
